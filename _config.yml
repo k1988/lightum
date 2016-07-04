@@ -1,8 +1,8 @@
 menu:
   首页: /
   归档: /archives
-  关于: /about
-  工具: /tools
+  #关于: /about
+  #工具: /tools
   
 
 widgets:
@@ -32,4 +32,4 @@ addthis:
 fancybox: true
 
 google_analytics: UA-41207871-1
-rss: http://zipperary.com/atom.xml
+rss: http://k1988.github.com/rss.xml
